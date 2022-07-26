@@ -1,6 +1,5 @@
 ### Hello World! It's Emi 👋
 
-- 🔭 I’m currently working on @Workana
 - 🚩 I’m member of @RooftopLabs community
 - 🌱 I’m currently learning NodeJS & React
 

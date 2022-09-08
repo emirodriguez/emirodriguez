@@ -1,7 +1,7 @@
 ### Hello World! It's Emi 👋
 
 - 🚩 I’m member of @RooftopLabs community
-- 🌱 I’m currently learning NodeJS & React
+
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
